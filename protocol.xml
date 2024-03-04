@@ -67,6 +67,9 @@ Any inquiries can be addressed to:
 		<Param id="50">
 			<Name>btnPopulateTable</Name>
 			<Type>write</Type>
+			<Information>
+				<Subtext>Allows to populate the Events Overview table with some events.</Subtext>
+			</Information>
 			<Interprete>
 				<RawType>numeric text</RawType>
 				<Type>double</Type>
